@@ -18,8 +18,5 @@ blahblahblahblahblahblahblabblahblah
 blablablablablablablablbal
 blahblahblahblahsldkjflsdjkf
 
-<<<<<<< HEAD
 LALALALLLALALALALLALAL
-=======
->>>>>>> bd9c39e8d3b91ce9559caffabee1edfb702b5d98
 # KLgithub
