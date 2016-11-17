@@ -1,5 +1,5 @@
 
-?: 랄랄ㄹ랄라 랄랄ㄹ라라
+랄랄ㄹ랄ㄹ라랄ㄹ라 ?: 랄랄ㄹ랄라 랄랄ㄹ라라
 
 
 a yo
@@ -12,8 +12,14 @@ a yo
 수정이 쉬운 방법으로 보완
 불확실한 요소를 어떻게 관리할 것인가가 소프트웨어 공학의 핵심
 
+blahbblahblahblahblablabl
+blahblahblahblahblahblahblabblahblah
+
 blablablablablablablablbal
 sldkjflsdjkf
 
+<<<<<<< HEAD
 LALALALLLALALALALLALAL
+=======
+>>>>>>> bd9c39e8d3b91ce9559caffabee1edfb702b5d98
 # KLgithub
