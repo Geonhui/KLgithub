@@ -13,5 +13,5 @@ a yo
 불확실한 요소를 어떻게 관리할 것인가가 소프트웨어 공학의 핵심
 
 blablablablablablablablbal
-
+sldkjflsdjkf
 # KLgithub
